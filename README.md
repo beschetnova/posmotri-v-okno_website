@@ -4,7 +4,7 @@ ___
  
 https://github.com/user-attachments/assets/2317fced-696a-48c3-8a7e-a37736ae6737
 
-Посмотреть проект можно [по ссылке на GitHub Pages](https://beschetnova.github.io/posmotri_v_okno/)  
+Посмотреть проект можно [по ссылке на GitHub Pages](https://beschetnova.github.io/posmotri-v-okno_website/)  
 ___
 
 ### Технологии
